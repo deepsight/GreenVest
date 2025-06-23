@@ -1,3 +1,4 @@
+![Greenvest logo](greenvest.png)
 # GreenVest Proxy (Proof of Concept)
 
 **Status: Proof of Concept (PoC)**
